@@ -4,11 +4,11 @@
 
 ## TO DO
 
-- [ ] Change grid colour
-- [ ] Increase speed of self keyboard dropping
-- [ ] Add levels to the game
-- [ ] Add Exit button
-- [ ] Add timer - each 1 minute level the falling pieces get faster
+- [Y] Change grid colour
+- [Y] Increase speed of self keyboard dropping
+- [Y] Add levels to the game
+- [Y] Add Exit button
+- [Y] Add timer - each 1 minute level the falling pieces get faster
 - [ ] Add game over - when pieces reach the top of the board
 
 
