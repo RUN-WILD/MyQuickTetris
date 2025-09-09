@@ -1,0 +1,12 @@
+[project]
+name = "game-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pip~=22.3.1",
+    "wheel~=0.38.4",
+    "pygame~=2.6.0",
+    "numpy~=2.0.1",
+]
